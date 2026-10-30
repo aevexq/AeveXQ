@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm David Hernández 👋
 
-<!--
-**aevexq/aevexq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Engineer · Full Stack Developer**
 
-Here are some ideas to get you started:
+I build digital experiences, explore new technologies, and turn ideas into reality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in software engineering and full stack development.
+- 🌱 Currently learning Angular, Node.js, Python and AI.
+- 🤖 Passionate about artificial intelligence, automation and creative technology.
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,angular,react,nodejs,express,mongodb,mysql,git,docker&theme=dark" />
+</p>
+
+---
+
+*Building today what I imagined yesterday.*
